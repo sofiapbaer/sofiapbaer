@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi! 👋
+
+I'm Sofia, a Brazilian Product Manager based in Portugal. I've just started to learn to code and I'm still learning my way around here.
+
+✨ My GitHub Stats
+
+![Sofia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiapbaer&show_icons=true&theme=vue)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiapbaer&hide_progress=true&theme=vue)
 
 <!--
-**sofiapbaer/sofiapbaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+GitHub stats source: https://github.com/anuraghazra/github-readme-stats
+Other resources: https://github.com/anmol098/waka-readme-stats
 -->
+
+
+💬 How to reach me:
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sofiadepaulabaer/)
